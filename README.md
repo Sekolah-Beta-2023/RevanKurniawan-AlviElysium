@@ -9,10 +9,10 @@ Untuk melihat jika ada update dan full source: https://github.com/rvnkrwn/AlviEl
 noted: live demo akan aktif selama vercel masi aktif untuk backend akan aktif hingga november 2023 menggunakan cpanel
 
 ## Tech Stack
-Frontend : Nuxt.js 2
-Backend : Express.js
-Database : Mysql
-Storage: Hosting (backend deployed)
+1. Frontend : Nuxt.js 2
+2. Backend : Express.js
+3. Database : Mysql
+4. Storage: Hosting (backend deployed)
 
 ## Fitur Tersedia
 1. Register, Login, Logout, Deadactive account (hapus diri sendiri)
