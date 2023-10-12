@@ -2,7 +2,7 @@
 
 Platform digital yang dirancang untuk menciptakan pengalaman membaca yang mendalam, menginspirasi, dan memikat.
 
-Untuk demo live anda bisa kunjungi: https://alvielysium.com
+Untuk demo live anda bisa kunjungi: [https://alvielysium.com](https://alvi-elysium-app.vercel.app/)
 
 Untuk melihat jika ada update dan full source: https://github.com/rvnkrwn/AlviElysium-App
 
